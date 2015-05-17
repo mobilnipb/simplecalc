@@ -3,6 +3,8 @@
 
     <string name="app_name">simplecalc</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="L1">5 dodaj</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="Wynik">Tu będzie wynik</string>
 
 </resources>
